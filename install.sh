@@ -10,3 +10,4 @@ curl -sS https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | 
 curl -sS https://starship.rs/install.sh | sh -s -- --yes
 #NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 cp .zshrc $HOME
+cp .zimrc $HOME
